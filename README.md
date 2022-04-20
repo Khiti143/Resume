@@ -61,7 +61,7 @@ Multi energy source based gesture control Robot.
 <h3>EXPERIENCE:-</h3><br>
 ❖ 1Year experience as a CCE for Airtel Payments Bank in Q CONNEQT,
 Hyderabad.</br>
-<br>❖ Worked for 26 months working as a TSE (Complete troubleshooting of Windows and Office products
+<br>❖ Worked for 26 months as a TSE (Complete troubleshooting of Windows and Office products
 for MAC and Windows devices, with Outlook Manual Server Settings for E-mail setup) and also worked for
 billing team for Microsoft Process in TELEPERFORMANCE Jaipur.</br>
 <br>❖ Joined as a Technical Support, Technician In DELL International Technologies in September,
