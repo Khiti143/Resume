@@ -6,7 +6,7 @@ Khiti Ranjan jena
 <img src="https://scontent.fjai9-1.fna.fbcdn.net/v/t1.6435-0/p526x296/180668532_1999752980226641_2768760585651072156_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=8bfeb9&_nc_ohc=Ns6O7WMM9t4AX8bihY-&_nc_ht=scontent.fjai9-1.fna&tp=6&oh=3cd16e18d91ca8eb2cefba17c8718003&oe=60E3B705" alt="Khiti Ranjan" width="200"height="200"> <br>
 KHITI RANJAN JENA</br>
 E-mail:- khitiranjan1995@gmail.com <br>
-Contact No:- 7989215247 </br>
+Contact No:- 7989215247, 9676142057 </br>
 <h3>
 CAREER OBJECTIVE:-
 </h3>
@@ -41,7 +41,7 @@ Skills:-
 <br>
 ❖ Customer support
 </br>
-❖ Windows 10
+❖ Windows 07,08,8.1,10,11
 <br>
 ❖ Software diagnosis
 </br>
@@ -61,8 +61,12 @@ Multi energy source based gesture control Robot.
 <h3>EXPERIENCE:-</h3><br>
 ❖ 1Year experience as a CCE for Airtel Payments Bank in Q CONNEQT,
 Hyderabad.</br>
-<br>❖ Since 23 Months working as a TSE (Technical support Executive) for Microsoft
-Process in TELEPERFORMANCE Jaipur.</br>
+<br>❖ Worked for 26 months working as a TSE (Complete troubleshooting of Windows and Office products
+for MAC and Windows devices, with Outlook Manual Server Settings for E-mail setup) and also worked for
+billing team for Microsoft Process in TELEPERFORMANCE Jaipur.</br>
+<br>❖ Joined as a Technical Support, Technician In DELL International Technologies in September,
+Promoted as a Senior Technician, Technical Support in the month of December. Helping Customers with
+All Software and Hardware issues of Dell products.</br>
 <h3>ACHIEVEMENTS:-</h3>
 >> Won medal for winning the volleyball Championship in school.<br>
 >> Actively participated in various sports activities for Inter school.</br>
